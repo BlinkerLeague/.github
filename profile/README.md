@@ -15,7 +15,8 @@
 
 ## 🎬 시연 영상
 
-https://github.com/user-attachments/assets/bfae97f6-cdd4-4e20-8e54-924bc175e837
+https://github.com/user-attachments/assets/977c705f-9ca9-4f82-b958-679ea5e7c756
+
 
 > 좌회전 깜빡이 성공 → 우회전 깜빡이 누락 → 운행 종료 → 경기 결과 · 퀘스트 · 업적 화면 (Pleos Connect 에뮬레이터)
 
